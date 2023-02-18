@@ -1,1 +1,1 @@
-# Using_Academic_Latex
+# Using Academic Latex
